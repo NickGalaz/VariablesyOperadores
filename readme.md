@@ -15,7 +15,6 @@
 
 - APIs
 
-
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
 
 - Módulo 1: Fundamentos del Desarrollo de Páginas Web
