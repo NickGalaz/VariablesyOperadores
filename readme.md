@@ -3,7 +3,7 @@
 ### Módulo 2
 ### Programación Básica en JavaScript
 
-## Unidad: 1 - Trabajo Práctico
+## Unidad: 1 - Trabajo Práctico 1
 
 #### Contenidos Desarrollados:
 
@@ -13,7 +13,7 @@
 
 - Arrays y Objetos
 
-- APIS
+- APIs
 
 
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
